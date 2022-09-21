@@ -1,6 +1,8 @@
 use HousingData
 go
 
+-- Checking the table --
+
 select * 
 from Nashville_Housing
 
